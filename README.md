@@ -1,7 +1,7 @@
 # Text-to-Image-Generator
 
 **Tech Stack:** 
-Python · Google Generative AI (Gemini) · REST API · Prompt Engineering
+Python · Google Generative AI (Gemini) · REST API · Prompt Engineering.  
 **Desciption:**
 Built a backend system that takes user-provided text prompts and generates high-quality images using Google's Gemini Generative AI API.
 
